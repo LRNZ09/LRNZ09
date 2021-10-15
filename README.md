@@ -1,0 +1,1 @@
+[![](https://github-readme-stats.vercel.app/api?username=LRNZ09&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)](#) &nbsp; [![](https://github-readme-stats.vercel.app/api/top-langs/?username=LRNZ09&langs_count=8&layout=compact&theme=synthwave)](#)
