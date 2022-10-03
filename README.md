@@ -1,4 +1,8 @@
-# Ciao! 👋
+[![Twitter](https://img.shields.io/badge/LRNZ09-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/LRNZ09)
+
+---
+
+### Ciao! 👋
 
 I'm **Lorenzo**, a senior full-stack and mobile engineer from Florence 🇮🇹 working
 at @welldsagl in Lugano 🇨🇭
