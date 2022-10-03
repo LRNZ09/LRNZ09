@@ -1,5 +1,7 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
+[![Twitter](https://img.shields.io/badge/LRNZ09-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/LRNZ09)
+
 ---
 
 ### Ciao! 👋
