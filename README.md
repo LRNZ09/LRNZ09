@@ -12,7 +12,7 @@ at @welldsagl in Lugano 🇨🇭
 - 🏳️‍🌈 Preferred **pronouns**: [he/him](https://pronoun.is/he)
 - 🌐 You can find my **website** [here](https://lorenzopieri.dev)
 - 🌱 I’m trying to spend time learning **Swift**... when I have time!
-- 💬 Ask me about **TypeScript, React (Native) and Redux**
+- 💬 Ask me about **TypeScript, React (Native), Dart and Flutter**
 - 💻 Favorite editor is **VS Code**
 
 ### Languages and tools 🛠
