@@ -10,7 +10,7 @@ I'm **Lorenzo**, a senior full-stack and mobile engineer from Florence 🇮🇹 
 at @welldsagl in Lugano 🇨🇭
 
 - 🏳️‍🌈 Preferred **pronouns**: [he/him](https://pronoun.is/he)
-- 🌐 You can find my **website** [here](https://lorenzopieri.dev)
+- 🌍 You can find my **website** [here](https://lorenzopieri.dev)
 - 🌱 I’m trying to spend time mastering **Go**... when I have time!
 - 💬 Ask me about **TypeScript, React (Native), Dart and Flutter**
 - 💻 Favorite editor is **VS Code**
