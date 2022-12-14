@@ -7,7 +7,7 @@
 ### Ciao! 👋
 
 I'm **Lorenzo**, a senior full-stack and mobile engineer from Florence 🇮🇹 working
-at @welldsagl in Lugano 🇨🇭
+at **WellD** in Lugano 🇨🇭
 
 - 🏳️‍🌈 Preferred **pronouns**: [he/him](https://pronoun.is/he)
 - 🌍 You can find my **website** [here](https://lorenzopieri.dev)
