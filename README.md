@@ -26,4 +26,4 @@ at **WellD** in Lugano 🇨🇭
 ---
 
 \
-![Profile views](https://komarev.com/ghpvc/?&color=yellow&style=for-the-badge&username=LRNZ09)
+![Profile views](https://komarev.com/ghpvc/?abbreviated=true&color=lightgrey&style=for-the-badge&username=LRNZ09)
