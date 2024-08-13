@@ -14,7 +14,5 @@ at @welldsagl in Lugano 🇨🇭
 
 [![@lrnz09's Holopin board](https://holopin.io/api/user/board?user=lrnz09)](https://holopin.io/@lrnz09)
 
----
-
 \
-![Profile views](https://komarev.com/ghpvc/?&color=yellow&style=for-the-badge&username=LRNZ09)
+![Profile views](https://komarev.com/ghpvc/?abbreviated=true&color=grey&style=pixel&username=LRNZ09)
