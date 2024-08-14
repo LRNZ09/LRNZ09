@@ -2,15 +2,56 @@
 
 ---
 
-### Ciao! 👋
+### 👋 About Me
 
-I'm **Lorenzo**, a senior full-stack and mobile engineer from Florence 🇮🇹 working
-at @welldsagl in Lugano 🇨🇭
+I'm Lorenzo – a passionate software engineer from *Florence, Italy* 🇮🇹, now coding in *Lugano, Switzerland* 🇨🇭
 
-- 🌐 You can find my **website** [here](https://lorenzopieri.dev)
-- 🌱 I’m trying to spend time learning **Swift**... when I have time!
-- 💬 Ask me about **TypeScript, React (Native) and Redux**
-- 💻 Favorite editor is **VS Code**
+I strive over building stuff that **solves real problems** while feeling great to use.
+Whether I'm deep in code or brainstorming with others, I aim to create tech that makes a dent – the kind that sparks "oh wow, this actually helps!" moments.
+
+---
+
+### 🧰 What I Do Best
+
+**TypeScript** is my playground for building full-stack solutions that balance solid engineering with awesome user experiences.
+
+⚡️ **Frontend** – Crafting responsive, buttery-smooth UIs with modern frameworks (users should *want* to click around)
+
+🌐 **Backend** – Building scalable APIs that stay robust without sacrificing development speed
+
+📱 **Cross-platform** – Making experiences feel native whether you're on a phone, desktop, or smart fridge
+
+🤖 **Automation** – Cutting out the boring, repetitive tasks so we can focus on the fun stuff
+
+📟 **CLIs** – Experimenting with some new languages to create powerful CLI utilities
+
+Always chasing that sweet spot between "bulletproof code" and "using this feels like magic."
+
+---
+
+### 🛋️ Beyond the Code
+
+When I’m not coding, you’ll find me:
+
+🥾 **Hiking** – Chasing views in the stunning Swiss Alps to recharge and find inspiration in nature
+
+🎮 **Gaming** – Exploring immersive worlds and storytelling in video games
+
+---
+
+### 🌱 Let’s Build Something
+
+I’m always down to:
+
+🤝 Collaborate on wild tech ideas
+
+🗣️ Geek out about code architecture or gaming lore
+
+🌍 Connect across timezones
+
+Peep my repos below 👇 or shoot me a message on any platform I use – let’s make tech that matters! 🚀
+
+### 💎 Cool Badges
 
 [![@lrnz09's Holopin board](https://holopin.io/api/user/board?user=lrnz09)](https://holopin.io/@lrnz09)
 
