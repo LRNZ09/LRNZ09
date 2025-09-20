@@ -3,5 +3,11 @@
     "first-line-h1": false,
     "heading-style": {
         "style": "atx"
+    },
+    "no-inline-html": {
+        "allowed_elements": [
+            "details",
+            "summary"
+        ]
     }
 }

@@ -25,7 +25,7 @@ When I'm not coding, you can find me:
 - 🥾 Hiking along Swiss trails for fresh inspiration
 - 📸 Capturing photos and videos around the world
 - 🌱 Tending to my garden
-- 🎮 Enjoying gaming
+- 🎮 Enjoying good gaming
 
 ### 📡 Get in Touch
 
@@ -33,7 +33,11 @@ Feel free to reach out on any platform — I’d love to connect!
 
 ### 💎 Cool Badges
 
-[![@lrnz09's Holopin board](https://holopin.io/api/user/board?user=lrnz09)](https://holopin.io/@lrnz09)
+<details>
+  <summary>Click to show 'em</summary>
+
+  [![@lrnz09's Holopin board](https://holopin.io/api/user/board?user=lrnz09)](https://holopin.io/@lrnz09)
+</details>
 
 \
 ![Profile views](https://komarev.com/ghpvc/?abbreviated=true&color=grey&style=pixel&username=LRNZ09)
