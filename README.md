@@ -3,9 +3,7 @@
 
 ---
 
-### 👋 About Me
-
-Ciao, I'm Lorenzo! You can learn more about me [here](https://lorenzopieri.dev).
+### Hi, I'm [Lorenzo](https://en.wikipedia.org/wiki/Lorenzo_(film))! 👋
 
 ### 🧰 What I Do
 
