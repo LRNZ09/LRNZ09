@@ -4,6 +4,9 @@
     "heading-style": {
         "style": "atx"
     },
+    "line-length": {
+        "line_length": 160
+    },
     "no-inline-html": {
         "allowed_elements": [
             "details",
