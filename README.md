@@ -1,6 +1,7 @@
 [![GitHub Stars](https://shieldcn.dev/github/user-stars/LRNZ09?variant=default&size=xs&split=true&label=Stars&logo=github&labelColor=484D53&color=24292F&valueColor=FFFFFF&logoColor=FFFFFF)](https://github.com/LRNZ09?tab=repositories&q=&type=&language=&sort=stargazers)
 [![NPM Packages](https://shieldcn.dev/badge/dynamic/json?url=https%3A%2F%2Fapi.npms.io%2Fv2%2Fsearch%3Fq%3Dmaintainer%3ALRNZ09&query=%24.total&label=Packages&variant=default&size=xs&split=true&logo=npm&labelColor=EF5C5B&color=CB3837&valueColor=FFFFFF&logoColor=FFFFFF)](https://www.npmjs.com/~lrnz09?activeTab=packages)
 [![Medium Stories](https://shieldcn.dev/badge/dynamic/json?url=https%3A%2F%2Fapi.rss2json.com%2Fv1%2Fapi.json%3Frss_url%3Dhttps%3A%2F%2Fmedium.com%2Ffeed%2F%40LRNZ09&query=%24.items.length&label=Stories&variant=default&size=xs&split=true&logo=medium&labelColor=24AE7B&color=008A57&valueColor=FFFFFF&logoColor=FFFFFF)](https://medium.com/@LRNZ09)
+[![LinkedIn Connect](https://shieldcn.dev/badge/Connect-Lorenzo_Pieri-000000.svg?variant=default&size=xs&split=true&logo=ri%3AFaLinkedin&labelColor=0A66C2&color=004182&valueColor=FFFFFF&logoColor=FFFFFF)](https://www.linkedin.com/in/lorenzo-pieri)
 [![X (formerly Twitter) Follow](https://shieldcn.dev/badge/Follow-%40LRNZ09-000000.svg?variant=default&size=xs&split=true&logo=x&labelColor=242424&color=000000&valueColor=FFFFFF&logoColor=FFFFFF)](https://x.com/LRNZ09)
 
 ---
